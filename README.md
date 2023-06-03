@@ -1,5 +1,5 @@
-- 👋 hi there my name is  Yadid Mayerly  Acero Osorio
-- I am a beginner front-end developer with skills in HTML, CSS, JavaScript, Figma, API integration, Bootstrap, Tailwind and React. I am passionate about creating responsive, accessible, and easy-to-maintain websites to enhance the user and customer experience. I am a creative person, with design thinking skills, constantly seeking to learn and improve.
+- 👋 hi there my name is  Yadid Mayerly  Acero Osorio I am a junior programmer
+I have beginner programming knowledge with skills in HTML, CSS, JavaScript, Java, Python, VBA, macros in Excel and My SQL database. I am passionate about creating responsive, accessible, and easy-to-maintain websites to enhance the user and customer experience. I am a creative person, with Design Thinking skills, constantly seeking to learn and improve.
 I am looking for an innovative company that values creativity and allows me to apply my skills in a challenging and constantly evolving environment.
 - 👀 My projects are important, I have them here, some of them I did myself, and others I am doing as I complete my courses.
 - 🌱 I have a passion for technology and software and my goal is to specialize as a frontend developer and make multiplatform applications with web technology
