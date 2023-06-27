@@ -1,5 +1,5 @@
 Portfolio
-- [https://devyadid.github.io/](https://devyadid.github.io/)
+[https://devyadid.github.io/](https://devyadid.github.io/)
 
 - 👋 hi there my name is  Yadid Mayerly  Acero Osorio I am a junior programmer
 I have beginner programming knowledge with skills in HTML, CSS, JavaScript, Java, Python, VBA, macros in Excel and My SQL database. I am passionate about creating responsive, accessible, and easy-to-maintain websites to enhance the user and customer experience. I am a creative person, with Design Thinking skills, constantly seeking to learn and improve.
